@@ -56,6 +56,4 @@ Conclusion
 
 Amazon S3 provides an easy and efficient way to host a static website. By following these steps, you can deploy a website on AWS with scalable and reliable cloud storage.
 
-NextWork.org - Everyone should be in a job they love.
-Check out NextWork for more projects!
 
